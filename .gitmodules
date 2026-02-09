@@ -1,0 +1,3 @@
+[submodule "LFS261/lab8/prometheus"]
+	path = LFS261/lab8/prometheus
+	url = https://github.com/eeganlf/prometheus.git
